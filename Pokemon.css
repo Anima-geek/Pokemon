@@ -42,6 +42,6 @@ li{list-style: none; display: inline-block;}
 
 .background{height: 150vh; width: 100vw; background: lightblue; no-repeat; background-size: 100% 100%;}
 
-.Pokemon {position: absolute; left: 25%; top: 20%; right: 2%; bottom: 2%; text-align: center;}
+.Pokemon {position: absolute; left: 25%; top: 20%; right: 2%; bottom: 2%;}
 
 .Texte {position: absolute; text-align: center; top: 50%; left: 1%; right:1%; bottom:1%; color: black; font-size: 135%; font-family: 'Pokemon Solid', sans-serif;}
