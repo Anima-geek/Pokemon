@@ -44,4 +44,4 @@ li{list-style: none; display: inline-block;}
 
 .Pokemon {position: relative; left: 25%; top: 20%; right: 10%; bottom: 2%;}
 
-.Texte {position: absolute; text-align: center; top: 50%; left: 1%; right:1%; bottom:1%; color: black; font-size: 135%; font-family: 'Pokemon Solid', sans-serif;}
+.Texte {position: relative; text-align: center; top: 50%; left: 1%; right:1%; bottom:1%; color: black; font-size: 135%; font-family: 'Pokemon Solid', sans-serif;}
